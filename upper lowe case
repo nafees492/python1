@@ -1,0 +1,4 @@
+string='nafees'
+print(string.isuppper())
+string='nafees'
+print(string.islower())
