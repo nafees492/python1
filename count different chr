@@ -1,0 +1,8 @@
+a=input("enter a string")
+coun=0
+for i in a:
+  for j in a:
+    if i==j:
+      coun+=1
+  print(str(i)+"="+str(coun))
+  coun=0
